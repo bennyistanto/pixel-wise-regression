@@ -39,3 +39,6 @@ Rainfall data available in GeoTIFF, but SST is in text format. In order to do pi
 ## References
 - https://matinbrandt.wordpress.com/2014/05/26/pixel-wise-regression-between-two-raster-time-series/ 
 - https://www.hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of-raster-data-in-r?format=amp 
+
+## Contact
+Using above reference, this works done by Anggita Annisa, a final year student from Department of Statistics - IPB who is doing an internship in VAM unit of WFP Indonesia from June - August 2019. If you have any question related to this tool and application for other areas, contact [Benny Istanto](https://github.com/bennyistanto)
